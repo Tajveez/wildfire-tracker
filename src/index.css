@@ -10,3 +10,8 @@ body {
   height: 100vh;
   position: relative;
 }
+
+.location-icon {
+  font-size: 2rem;
+  color: red;
+}
