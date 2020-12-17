@@ -1,1 +1,1 @@
-# WildFire tracker using NASA API
+# WildFire tracker using React.js & NASA API
